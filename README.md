@@ -1,1 +1,0 @@
-# wp-vc-bakery-get-custom-post-content
